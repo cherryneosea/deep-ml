@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:45:11.035Z",
+  "generated_at": "2026-09-27T06:45:12.470Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -39,6 +39,45 @@
       "last_pushed_at": "2026-06-20T19:53:23.193Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-06-21T18:04:27.611Z",
+      "last_pushed_at": "2026-06-21T18:04:27.611Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-06-21T18:10:05.555Z",
+      "last_pushed_at": "2026-06-21T18:10:05.555Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-06-21T18:14:44.495Z",
+      "last_pushed_at": "2026-06-21T18:14:44.495Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
