@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:45:15.647Z",
+  "generated_at": "2026-09-27T06:45:17.291Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -143,6 +143,58 @@
       "last_pushed_at": "2026-06-29T17:55:26.779Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-06-30T16:34:45.532Z",
+      "last_pushed_at": "2026-06-30T16:34:45.532Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-06-30T16:39:00.933Z",
+      "last_pushed_at": "2026-06-30T16:39:00.933Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-06-30T16:58:41.315Z",
+      "last_pushed_at": "2026-06-30T16:58:41.315Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-06-30T17:22:17.838Z",
+      "last_pushed_at": "2026-06-30T17:22:17.838Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
