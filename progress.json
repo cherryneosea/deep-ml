@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:45:26.262Z",
+  "generated_at": "2026-09-27T06:45:27.664Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -273,6 +273,45 @@
       "last_pushed_at": "2026-07-07T20:10:44.764Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:156": {
+      "kind": "problem",
+      "id": "156",
+      "title": "Implement SwiGLU activation function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/156",
+      "path": "problems/0156-implement-swiglu-activation-function",
+      "first_solved_at": "2026-07-08T18:24:03.154Z",
+      "last_pushed_at": "2026-07-08T18:24:03.154Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-07-08T18:26:28.424Z",
+      "last_pushed_at": "2026-07-08T18:26:28.424Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-07-08T18:46:04.631Z",
+      "last_pushed_at": "2026-07-08T18:46:04.631Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
