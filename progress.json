@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:45:29.210Z",
+  "generated_at": "2026-09-27T06:45:30.673Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -325,6 +325,32 @@
       "last_pushed_at": "2026-07-09T18:11:50.708Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-07-10T19:14:10.380Z",
+      "last_pushed_at": "2026-07-10T19:14:10.380Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-07-10T19:28:57.856Z",
+      "last_pushed_at": "2026-07-10T19:28:57.856Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
