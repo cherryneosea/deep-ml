@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:45:30.673Z",
+  "generated_at": "2026-09-27T06:45:32.246Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -351,6 +351,32 @@
       "last_pushed_at": "2026-07-10T19:28:57.856Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-07-11T17:23:56.534Z",
+      "last_pushed_at": "2026-07-11T17:23:56.534Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-07-11T17:34:26.020Z",
+      "last_pushed_at": "2026-07-11T17:34:26.020Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
