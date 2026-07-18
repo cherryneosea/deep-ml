@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:45:41.275Z",
+  "generated_at": "2026-09-27T06:45:42.780Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -455,6 +455,32 @@
       "last_pushed_at": "2026-07-17T16:56:06.422Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2026-07-18T14:51:57.727Z",
+      "last_pushed_at": "2026-07-18T14:51:57.727Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-07-18T14:59:27.502Z",
+      "last_pushed_at": "2026-07-18T14:59:27.502Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
