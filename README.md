@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 38 problems · 0 labs · 0 math
+**40** solved · 40 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-06-21 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-07-12 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-07-13 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
+| [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-07-20 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-07-01 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-11 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-06-22 | [solution](problems/0016-feature-scaling-implementation) |
@@ -41,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-06-22 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-06-17 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-07-05 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-07-20 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-07-17 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-06-30 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-06-20 | [solution](problems/0003-reshape-matrix) |
