@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:45:47.210Z",
+  "generated_at": "2026-09-27T06:45:48.736Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -533,6 +533,32 @@
       "last_pushed_at": "2026-07-21T14:37:08.761Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-07-22T16:47:38.309Z",
+      "last_pushed_at": "2026-07-22T16:47:38.309Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-07-22T16:54:10.818Z",
+      "last_pushed_at": "2026-07-22T16:54:10.818Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
