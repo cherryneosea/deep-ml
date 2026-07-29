@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:46:15.456Z",
+  "generated_at": "2026-09-27T06:46:16.885Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -624,6 +624,32 @@
       "last_pushed_at": "2026-07-27T17:10:31.292Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2026-07-29T11:26:29.624Z",
+      "last_pushed_at": "2026-07-29T11:26:29.624Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-07-29T11:31:18.130Z",
+      "last_pushed_at": "2026-07-29T11:31:18.130Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
