@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:46:24.632Z",
+  "generated_at": "2026-09-27T06:46:26.121Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -715,6 +715,71 @@
       "last_pushed_at": "2026-08-03T10:52:13.657Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-08-29T11:14:59.618Z",
+      "last_pushed_at": "2026-08-29T11:14:59.618Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-08-29T11:20:56.845Z",
+      "last_pushed_at": "2026-08-29T11:20:56.845Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-08-29T11:32:18.703Z",
+      "last_pushed_at": "2026-08-29T11:32:18.703Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2026-08-29T17:19:02.752Z",
+      "last_pushed_at": "2026-08-29T17:19:02.752Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2026-08-29T17:31:58.671Z",
+      "last_pushed_at": "2026-08-29T17:31:58.671Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
