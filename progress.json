@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:46:26.121Z",
+  "generated_at": "2026-09-27T06:46:27.740Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -780,6 +780,43 @@
       "last_pushed_at": "2026-08-29T17:31:58.671Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-09-01T15:31:50.310Z",
+      "last_pushed_at": "2026-09-01T15:31:50.310Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-09-01T16:16:47.725Z",
+      "last_pushed_at": "2026-09-01T16:16:47.725Z",
+      "language": "python",
+      "lines": 23
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-09-01T17:37:43.824Z",
+      "last_pushed_at": "2026-09-01T17:37:43.824Z"
     }
   }
 }
