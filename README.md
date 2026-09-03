@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 62 problems · 0 labs · 1 math
+**64** solved · 63 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -72,6 +72,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-06-30 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-06-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-07-29 | [solution](problems/0121-vector-element-wise-sum) |
+| [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-03 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-01 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-01 | [solution](problems/0009-matrix-times-matrix) |
 

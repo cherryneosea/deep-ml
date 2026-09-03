@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:46:27.740Z",
+  "generated_at": "2026-09-27T06:46:29.378Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -817,6 +817,19 @@
       "path": "math/0003-neural-network-derivatives",
       "first_solved_at": "2026-09-01T17:37:43.824Z",
       "last_pushed_at": "2026-09-01T17:37:43.824Z"
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-03T09:29:35.454Z",
+      "last_pushed_at": "2026-09-03T09:29:35.454Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
