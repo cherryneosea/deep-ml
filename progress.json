@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:46:29.378Z",
+  "generated_at": "2026-09-27T06:46:30.909Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -830,6 +830,30 @@
       "last_pushed_at": "2026-09-03T09:29:35.454Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2026-09-08T10:26:06.321Z",
+      "last_pushed_at": "2026-09-08T10:26:06.321Z",
+      "language": "python",
+      "lines": 53
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-09-08T10:56:00.757Z",
+      "last_pushed_at": "2026-09-08T10:56:00.757Z"
     }
   }
 }
