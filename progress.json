@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:46:33.950Z",
+  "generated_at": "2026-09-27T06:46:35.431Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -880,6 +880,32 @@
       "last_pushed_at": "2026-09-10T09:35:08.241Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:37": {
+      "kind": "problem",
+      "id": "37",
+      "title": "Calculate Correlation Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/37",
+      "path": "problems/0037-calculate-correlation-matrix",
+      "first_solved_at": "2026-09-11T08:44:24.632Z",
+      "last_pushed_at": "2026-09-11T08:44:24.632Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-09-11T08:48:12.222Z",
+      "last_pushed_at": "2026-09-11T08:48:12.222Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
