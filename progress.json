@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:46:35.431Z",
+  "generated_at": "2026-09-27T06:46:36.953Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -906,6 +906,32 @@
       "last_pushed_at": "2026-09-11T08:48:12.222Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-09-13T11:04:42.538Z",
+      "last_pushed_at": "2026-09-13T11:04:42.538Z",
+      "language": "python",
+      "lines": 67
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-09-13T13:13:47.386Z",
+      "last_pushed_at": "2026-09-13T13:13:47.386Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
