@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:46:36.953Z",
+  "generated_at": "2026-09-27T06:46:38.443Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -932,6 +932,43 @@
       "last_pushed_at": "2026-09-13T13:13:47.386Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-09-14T16:03:38.471Z",
+      "last_pushed_at": "2026-09-14T16:03:38.471Z",
+      "language": "python",
+      "lines": 25
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-09-14T16:35:54.351Z",
+      "last_pushed_at": "2026-09-14T16:35:54.351Z"
+    },
+    "problem:165": {
+      "kind": "problem",
+      "id": "165",
+      "title": "Compute Discounted Return",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/165",
+      "path": "problems/0165-compute-discounted-return",
+      "first_solved_at": "2026-09-14T16:42:40.096Z",
+      "last_pushed_at": "2026-09-14T16:42:40.096Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }

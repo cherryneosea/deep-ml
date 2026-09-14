@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**72** solved · 70 problems · 0 labs · 2 math
+**75** solved · 72 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-07-13 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-07-25 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-08-02 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
+| [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-09-14 | [solution](problems/0165-compute-discounted-return) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-07-20 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-07-01 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-26 | [solution](problems/0116-derivative-of-a-polynomial) |
@@ -82,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-08 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-10 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-09 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-09-14 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 
 ## Math
 
@@ -89,6 +91,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-08 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-09-01 | [solution](math/0003-neural-network-derivatives) |
+| [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-09-14 | [solution](math/0014-orthogonality-and-projections) |
 
 ---
 
