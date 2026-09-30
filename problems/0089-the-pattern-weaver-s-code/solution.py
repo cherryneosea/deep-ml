@@ -7,7 +7,7 @@ def softmax(values):
     return exp_values / np.sum(exp_values)
 
 def pattern_weaver(n, crystal_values, dimension):
-	# Your code here
+	# Your code here input is 1D array
 	final = []
 	for i in range(n):
 		#get current element and calc its nrelation to every other in that row 
