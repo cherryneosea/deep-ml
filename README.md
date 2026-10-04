@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 81 problems · 0 labs · 4 math
+**86** solved · 82 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -65,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-07-20 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-07-17 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-06-30 | [solution](problems/0029-random-shuffle-of-dataset) |
+| [ReLU with JAX Arrays](https://www.deep-ml.com/problems/1323) | easy | 2026-10-04 | [solution](problems/1323-relu-with-jax-arrays) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-06-20 | [solution](problems/0003-reshape-matrix) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-10-01 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-06-21 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
