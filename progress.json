@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:37:40.601Z",
+  "generated_at": "2026-10-04T16:40:12.150Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1134,6 +1134,19 @@
       "path": "problems/1325-your-first-gradient-with-jax-grad",
       "first_solved_at": "2026-10-04T16:37:40.339Z",
       "last_pushed_at": "2026-10-04T16:37:40.339Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1327": {
+      "kind": "problem",
+      "id": "1327",
+      "title": "Compiling Functions with jax.jit",
+      "difficulty": "easy",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1327",
+      "path": "problems/1327-compiling-functions-with-jax-jit",
+      "first_solved_at": "2026-10-04T16:40:11.481Z",
+      "last_pushed_at": "2026-10-04T16:40:11.481Z",
       "language": "python",
       "lines": 8
     }
