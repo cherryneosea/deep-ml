@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:35:05.961Z",
+  "generated_at": "2026-10-04T16:37:40.601Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1123,6 +1123,19 @@
       "last_pushed_at": "2026-10-04T16:35:06.112Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1325": {
+      "kind": "problem",
+      "id": "1325",
+      "title": "Your First Gradient with jax.grad",
+      "difficulty": "easy",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1325",
+      "path": "problems/1325-your-first-gradient-with-jax-grad",
+      "first_solved_at": "2026-10-04T16:37:40.339Z",
+      "last_pushed_at": "2026-10-04T16:37:40.339Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
